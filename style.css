@@ -1,0 +1,278 @@
+h1{
+    font-size: 60px;
+    color:white;
+    text-align: center;
+   
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+.banner {
+   
+    background-image:url(./images/golden-gate-bridge.jpg);
+    position: center;
+    margin-left: 100%;
+}
+
+body {
+  background-image: linear-gradient(to bottom right, white, rgb(58, 75, 231), rgb(58, 75, 231), rgb(2356, 159, 236), rgb(58, 75, 231), gray, rgb(236, 159, 236), white);
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+/* Where Home page begins*/
+.box1{
+  color: white;
+  width: 455px;
+  margin-left: 10%;
+  padding-left: 7%;
+  padding-right: 7%;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
+.box1-Paragraph {
+    color: white;
+    background-color: orchid;
+    width: 3975px;
+    border: 1px solid white;
+    margin-left: 15%;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-bottom: 10px;
+    border-radius: 10px;
+  }
+
+  .box2{
+ color: white;
+ width: 455px;
+margin-left: 1%;
+ padding-left: 7%;
+ padding-right: 7%;
+ padding-bottom: 10px;
+ border-radius: 10px;
+ margin-top: 50px;
+}
+.box2-Paragraph {
+   color: white;
+   background-color: orchid;
+   width: 3975px;
+   border: 1px solid white;
+   margin-left: 10%;
+   padding-left: 7%;
+   padding-right: 7%;
+   padding-bottom: 10px;
+   border-radius: 10px;
+ }
+
+ .box3{
+ color: white;
+ width: 455px;
+margin-left: 1%;
+ padding-left: 7%;
+ padding-right: 7%;
+ padding-bottom: 10px;
+ border-radius: 10px;
+ margin-top: 50px;
+}
+.box3-Paragraph {
+   color: white;
+   background-color: orchid;
+   width: 3975px;
+   border: 1px solid white;
+   margin-left: 2%;
+   padding-left: 7%;
+   padding-right: 7%;
+   padding-bottom: 10px;
+   border-radius: 10px;
+ }
+/* Where Home page ends*/
+
+/*Where Food beings*/
+ .box4{
+ color: white;
+ width: 100px;
+ padding-left: 7%;
+ padding-right: 7%;
+ padding-bottom: 10px;
+ border-radius: 10px;
+ margin-top: 50px;
+ 
+}
+.box4-Paragraph {
+   color: white;
+   background-color: orchid;
+   width: 1695px;
+   border: 1px solid white;
+   padding-left: 7%;
+   padding-right: 7%;
+   padding-bottom: 10px;
+   border-radius: 10px;
+  margin-left: 1850px;
+  
+ }
+
+ 
+ .box5{ 
+ color: white;
+ width: 470px;
+ padding-left: 20%;
+margin-left: 50px;
+ padding-bottom: 10px;
+ border-radius: 10px;
+ margin-top: 50px;
+}
+.box5-Paragraph {
+    color: white;
+   background-color: orchid;
+   width: 2000px;
+   height: 1100px;
+   border: 1px solid white;
+   padding-right: 7%;
+   padding-bottom: 10px;
+   border-radius: 10px;
+   margin-left: 1600px;
+ }
+/* Where food end*/
+
+
+/* Where wish list begins*/
+ .box6{ 
+    color: white;
+    width: 470px;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-top: 50px;
+   }
+   .box6-Paragraph {
+       color: white;
+      background-color: orchid;
+      width: 3975px;
+      border: 1px solid white;
+      padding-left: 7%;
+      padding-right: 7%;
+      padding-bottom: 10px;
+      border-radius: 10px;
+      margin-left: 575px;
+    }
+
+    .box7{ 
+        color: white;
+        width: 470px;
+        padding-left: 7%;
+        padding-right: 7%;
+        padding-bottom: 10px;
+        border-radius: 10px;
+        margin-top: 50px;
+       }
+       .box7-Paragraph {
+           color: white;
+          background-color: orchid;
+          width: 3975px;
+          border: 1px solid white;
+          padding-left: 7%;
+          padding-right: 7%;
+          padding-bottom: 10px;
+          border-radius: 10px;
+          margin-left: 545px;
+        }
+/*Where index page end*/
+
+
+/* Where food page begins*/
+.box8{ 
+    color: white;
+    width: 470px;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-top: 50px;
+    
+   }
+   .box8-Paragraph {
+       color: white;
+      background-color: orchid;
+      width: 3975px;
+      border: 1px solid white;
+      padding-left: 7%;
+      padding-right: 7%;
+      padding-bottom: 10px;
+      border-radius: 10px;
+      margin-left: 520px;
+    }
+    .box9{ 
+        color: white;
+        width: 470px;
+        padding-left: 7%;
+        padding-right: 7%;
+        padding-bottom: 10px;
+        border-radius: 10px;
+        margin-top: 50px;
+       }
+       .box9-Paragraph {
+           color: white;
+          background-color: orchid;
+          width: 3975px;
+          border: 1px solid white;
+          padding-left: 7%;
+          padding-right: 7%;
+          padding-bottom: 10px;
+          border-radius: 10px;
+          margin-left: 500px;
+        }
+    /*where wish list ends*/
+   
+.list {
+    text-align: center;
+    color: black;
+}
+nav {
+    background-color: rgba(217, 90, 217, 0.309);
+    width: 100%;
+    text-align: center;
+    color: purple;
+    padding-top: 10px;
+    margin-bottom: 0%;
+    position: fixed;
+      
+}
+
+nav a {
+    font-size: 4.5rem;
+    text-decoration: none;
+    padding-right: 15px;
+  
+  }
+
+.food-list{
+    text-align: center;
+    font-size: 75px;
+    color:white;
+}
+
+.wish{
+    text-align: center;
+    font-size: 75px;
+    color:white;
+}
+p{
+    text-align: center;
+    font-size: 75px;
+}
